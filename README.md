@@ -6,12 +6,11 @@
 
 ---
 
-### 〇、自购订阅（NanoCloud）
+### 〇、ofoNET
 
-<https://edu.dianping.men/iv/verify_mode.htm?token=fb190a43fdf3d65b79ade1587c034ca8>
+新机场开业，注册即送首月30G的高速流量。
 
-主观评价：年付订阅，每月651G。
-
+官网地址:[点击进入](https://ofonet.net/#/register?code=GSKya2kv)
 
 ---
 
@@ -51,6 +50,12 @@
 
 2025年3月白嫖提前发布：  bZceg2R1   有效期为   2025/03/01 01:00 ~ 2025/03/31 23:59  
 
+---
+### 五、自购订阅（NanoCloud）
+
+<https://edu.dianping.men/iv/verify_mode.htm?token=fb190a43fdf3d65b79ade1587c034ca8>
+
+主观评价：年付订阅，每月651G。
 
 ---
 # 付费机场推荐
