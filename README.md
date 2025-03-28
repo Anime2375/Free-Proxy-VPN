@@ -11,7 +11,7 @@
 新机场开业，注册即送首月50G的专线流量。
 
 官网地址:[点击进入](https://www.redleaf.app/#/register?code=V9cquaO2)
-![image](https://github.com/user-attachments/assets/a6bacb95-b5da-4387-be5f-434874d9b480)
+![image](https://github.com/user-attachments/assets/d494e844-0e9e-4f7f-af92-3de79b9e4f2e)
 
 
 ---
