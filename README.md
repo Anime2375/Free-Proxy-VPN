@@ -36,7 +36,7 @@
 
 ### 三、NanoCloud
 
-官网地址:[点击进入](https://edu.tplinkcloud.me/auth/register?code=1PhiI0Pi)
+官网地址:[点击进入](https://edu.360buyimg.men/auth/register?code=1PhiI0Pi)
 
 主观评价：注册送首月50G流量套餐，节点很多，缺点是时间较短只有一个月。
 
