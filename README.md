@@ -6,11 +6,11 @@
 
 ---
 
-### 〇、ofoNET
+### 〇、红叶
 
-新机场开业，注册即送首月30G的高速流量。
+新机场开业，注册即送首月50G的专线流量。
 
-官网地址:[点击进入](https://ofonet.net/#/register?code=GSKya2kv)
+官网地址:[点击进入](https://www.redleaf.app/#/register?code=V9cquaO2)
 ![image](https://github.com/user-attachments/assets/a6bacb95-b5da-4387-be5f-434874d9b480)
 
 
