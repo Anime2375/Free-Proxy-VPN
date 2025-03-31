@@ -87,4 +87,21 @@
 ![飞兔云_拓扑测试](https://github.com/user-attachments/assets/3602fbe4-8432-44a8-a7d3-ca4cb6146ed5)
 
 ---
+## 二、星沐互联(8.8/月100G)
 
+官网地址:[点击进入](https://1.homocloud.link/#/register?code=dbTZpJlz)
+
+特色：超多冷门地区节点任选,带多地区家宽，速度嘎嘎快
+
+主观评价:中转+专线机场，入口和出口非常多，目前有九十多个节点，还有很多家宽节点，还有20G小流量套餐，总的来说挺不错的。
+
+套餐价格:
+
+![image](https://github.com/user-attachments/assets/2d063cd9-cf57-47eb-b00d-f116781d503f)
+
+测速与解锁情况:
+![image](https://github.com/user-attachments/assets/4399d4a8-572d-401c-83de-f082797493d4)
+![image](https://github.com/user-attachments/assets/9280ea2e-6ff8-48a2-ac54-46772f900dc8)
+
+线路分析:
+![image](https://github.com/user-attachments/assets/cc91b92d-a9a7-4ac7-ad99-1542d86f7994)
