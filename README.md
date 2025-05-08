@@ -13,19 +13,11 @@
 官网地址:[点击进入](https://www.redleaf.app/#/register?code=V9cquaO2)
 ![image](https://github.com/user-attachments/assets/d494e844-0e9e-4f7f-af92-3de79b9e4f2e)
 
+### 一、ofoNET
 
----
+新机场开业，注册即送首月30G的高速流量。
 
-### 一、廉价机场
-
-官网地址:[点击进入](https://lianjia.me/#/register?code=YGKMsx4B)
-
-主观评价：注册即送一年20G套餐，全中转节点，速度比较优秀，缺点是流量比较少。
-
-
-测速与解锁情况：
-
-![廉价机场测速](https://github.com/user-attachments/assets/73bfb5d4-0305-4fb4-bac8-08ae0b89f6d9)
+官网地址:[点击注册](https://hg.ofonb.com/#/register?code=GSKya2kv)
 
 
 ### 二、速达机场
