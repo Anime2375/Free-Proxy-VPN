@@ -26,7 +26,13 @@
 
 主观评价：包含香港节点无线流量的免费公益套餐，缺点是部分地区可能无法稳定使用。
 
-### 三、NanoCloud
+### 三、WY Cloud
+
+凭优惠码：**WY100** 可领取首月50G的白嫖套餐。
+
+官网地址:[点击注册](https://www.binfeng.site/#/register?code=jTkEdr8s)
+
+### 四、NanoCloud
 
 官网地址:[点击进入](https://edu.360buyimg.men/auth/register?code=1PhiI0Pi)
 
@@ -36,7 +42,7 @@
 ![nano云测速](https://github.com/user-attachments/assets/10e965e8-de83-4c82-81e6-58f1c9700cf1)
 ![nano云解锁](https://github.com/user-attachments/assets/44f788ff-9fde-476e-9420-ab8ff33160f4)
 
-### 四、便宜机场
+### 五、便宜机场
 
 官网地址:[点击进入](https://xn--wtq35pfyd55o.co/#/register?code=oknXtGRX)
 
@@ -45,7 +51,7 @@
 2025年4月白嫖提前发布：  pVuKEpNI   有效期为   2025/04/01 00:00 ~ 2025/04/30 23:59 
 
 ---
-### 五、自购订阅（NanoCloud）
+### 六、自购订阅（NanoCloud）
 
 <https://edu.dianping.men/iv/verify_mode.htm?token=fb190a43fdf3d65b79ade1587c034ca8>
 
