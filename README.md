@@ -28,7 +28,7 @@
 
 ### 三、WY Cloud
 
-凭优惠码：**WY100** 可领取首月50G的白嫖套餐。
+凭优惠码：**妙蛙种子** 可领取首月50G的白嫖套餐。
 
 官网地址:[点击注册](https://www.binfeng.site/#/register?code=jTkEdr8s)
 
@@ -118,6 +118,8 @@
 线路分析:
 ![image](https://github.com/user-attachments/assets/0a7aca87-4393-4d9a-9a33-8a762c6a8a87)
 
+---
+
 ## 四、五毛机场(6年付/月100G)
 官网地址1:[点击进入](https://www.freebb.me/#/register?code=5JTLkXfI)
 
@@ -138,4 +140,33 @@
 
 线路分析:
 ![image](https://github.com/user-attachments/assets/0b082cc6-f08e-42d2-a8e9-ecc10765affe)
+
+---
+## 五、一分机场(2/月100G)
+
+官网地址:[点击进入](https://xn--4gqx1hgtfdmt.com/#/register?code=UqrLKhbN)
+
+主观评价:直连机场，价格还可以，稳定性、解锁一般，推荐作为备用。
+
+套餐价格:
+![image](https://github.com/user-attachments/assets/ae612953-dd40-42d1-af86-725f483fa14a)
+
+
+[一分机场测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E4%B8%80%E5%88%86%E6%9C%BA%E5%9C%BA.md)
+
+---
+
+## 六、三毛机场(3年付/月5G)
+官网地址:[点击进入](https://smjcdh.com/#/register?code=MeNgAoac)
+
+主观评价:直连机场，速度还可以，测到后面就没流量了，仅供参考，稳定性一般，从未见过如此便宜的套餐，年付仅3元，每月5G流量，喜欢便宜的可以试试。
+
+套餐价格:
+
+![套餐价格](https://github.com/user-attachments/assets/2aa8dd26-a179-4a69-970b-598ab24e81b3)
+
+测速与解锁情况:
+![telegram-cloud-photo-size-5-6253571665896261224-w](https://github.com/user-attachments/assets/89b73569-49dd-4877-b1d2-7b68d0a9bf71)
+
+![MiaoKo-    com-6178-speedtest](https://github.com/user-attachments/assets/29303cf1-0bd4-4599-a501-ae4315a92af5)
 
