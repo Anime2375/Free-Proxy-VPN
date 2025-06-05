@@ -1,4 +1,4 @@
-# 免费机场分享
+![image](https://github.com/user-attachments/assets/534e3b83-cab7-4a23-83c8-3fec181d38ca)![image](https://github.com/user-attachments/assets/7e720f4b-e1d3-44c6-b137-ba1f32fe9a67)# 免费机场分享
 
 如果本项目对您有所帮助，请给我关注吧 [Star](https://github.com/Anime2375/Free-Proxy-VPN)，您的支持是我更新的动力！
 
@@ -8,10 +8,16 @@
 
 ### 〇、红叶
 
-新机场开业，注册即送首月50G的专线流量。
+新机场开业，注册即送首月50G的专线流量，质量非常不错，也推荐购买他家的付费套餐。
 
 官网地址:[点击进入](https://www.redleaf.app/#/register?code=V9cquaO2)
 ![image](https://github.com/user-attachments/assets/d494e844-0e9e-4f7f-af92-3de79b9e4f2e)
+
+测速与解锁情况：
+![image](https://github.com/user-attachments/assets/8b160cd9-5f51-4a81-b9ec-45f31e3d0b2b)
+![image](https://github.com/user-attachments/assets/5ee7df23-a2f7-4875-8e1f-23e6dcf8775b)
+
+---
 
 ### 一、ofoNET
 
@@ -19,6 +25,7 @@
 
 官网地址:[点击注册](https://hg.ofonb.com/#/register?code=GSKya2kv)
 
+---
 
 ### 二、速达机场
 
