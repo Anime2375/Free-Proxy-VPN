@@ -25,21 +25,14 @@
 
 官网地址:[点击注册](https://hg.ofonb.com/#/register?code=GSKya2kv)
 
----
 
-### 二、速达机场
-
-官网地址:[点击进入](https://cke5ad.cp-mining.com/#/register?code=OpqA8l9d)
-
-主观评价：包含香港节点无线流量的免费公益套餐，缺点是部分地区可能无法稳定使用。
-
-### 三、WY Cloud
+### 二、WY Cloud
 
 凭优惠码：**妙蛙种子** 可领取首月50G的白嫖套餐。
 
 官网地址:[点击注册](https://www.binfeng.site/#/register?code=jTkEdr8s)
 
-### 四、NanoCloud
+### 三、NanoCloud
 
 官网地址:[点击进入](https://edu.360buyimg.men/auth/register?code=1PhiI0Pi)
 
@@ -52,7 +45,7 @@
 
 
 ---
-### 五、自购订阅（NanoCloud）
+### 四、自购订阅（NanoCloud）
 
 <https://edu.dianping.men/iv/verify_mode.htm?token=fb190a43fdf3d65b79ade1587c034ca8>
 
