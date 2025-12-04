@@ -4,6 +4,13 @@
 
 ![](https://komarev.com/ghpvc/?username=Free-Proxy-VPN)
 
+## 客户端软件下载
+MacOS、Linux、Windows下载：[clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev/releases)
+
+安卓、鸿蒙下载：[ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+
+iOS：apple store搜索Shadowrocket、sing-box
+
 ---
 
 ### 〇、红叶
@@ -42,14 +49,12 @@
 ![nano云测速](https://github.com/user-attachments/assets/10e965e8-de83-4c82-81e6-58f1c9700cf1)
 ![nano云解锁](https://github.com/user-attachments/assets/44f788ff-9fde-476e-9420-ab8ff33160f4)
 
+### 四、Phantom
 
+官网地址:[点击进入](https://pin.dianping.men/auth/register?code=jP6JVzHo)
 
----
-### 四、自购订阅（NanoCloud）
+主观评价：注册送首月100G流量套餐，有官方的客户端，节点很多，缺点是时间较短只有一个月。
 
-<https://edu.dianping.men/iv/verify_mode.htm?token=fb190a43fdf3d65b79ade1587c034ca8>
-
-主观评价：年付订阅，每月651G。
 
 ---
 # 付费机场推荐
