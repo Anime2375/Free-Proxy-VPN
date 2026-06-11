@@ -41,7 +41,7 @@ iOS：apple store搜索Shadowrocket、sing-box
 
 凭优惠码：**妙蛙种子** 可领取首月50G的白嫖套餐。
 
-官网地址:[点击注册](https://www.binfeng.site/#/register?code=jTkEdr8s)
+官网地址:[点击注册](https://www.z1z1.xyz/#/register?code=jTkEdr8s)
 
 ### 三、NanoCloud
 
