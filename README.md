@@ -113,8 +113,9 @@ iOS：apple store搜索Shadowrocket、sing-box
 套餐价格:
 ![image](https://github.com/user-attachments/assets/ae612953-dd40-42d1-af86-725f483fa14a)
 
+测速与解锁情况:
 
-[一分机场测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E4%B8%80%E5%88%86%E6%9C%BA%E5%9C%BA.md)
+![上海电信@1Gbps](https://github.com/user-attachments/assets/8bf7bae6-bc3d-4deb-b500-9e7d68e8e25a)
 
 ---
 
