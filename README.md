@@ -11,9 +11,18 @@ MacOS、Linux、Windows下载：[clash-verge-rev](https://github.com/clash-verge
 
 iOS：apple store搜索Shadowrocket、sing-box
 
+
 ---
 
-### 〇、红叶
+### 〇、自购订阅
+
+<https://47.76.155.27/iv/verify_mode.htm?token=668a45f800733d4d93279d2da09132c9&name=%E5%B0%84%E6%89%8B%E5%BA%A7>
+
+主观评价：年付订阅，每月651G。
+
+---
+
+### 一、红叶
 
 新机场开业，注册即送首月50G的专线流量，质量非常不错，也推荐购买他家的付费套餐。
 
@@ -26,11 +35,6 @@ iOS：apple store搜索Shadowrocket、sing-box
 
 ---
 
-### 一、ofoNET
-
-新机场开业，注册即送首月30G的高速流量。
-
-官网地址:[点击注册](https://hg.ofonb.com/#/register?code=GSKya2kv)
 
 
 ### 二、WY Cloud
