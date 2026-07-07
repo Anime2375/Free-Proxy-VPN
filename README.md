@@ -120,7 +120,7 @@ iOS：apple store搜索Shadowrocket、sing-box
 ---
 
 ## 四、三毛机场(3年付/月5G)
-官网地址:[点击进入](https://smjcdh.com/#/register?code=MeNgAoac)
+官网地址:[点击进入](https://gw-1.xn--ehqx7tcnnope.com/#/register?code=MeNgAoac)
 
 主观评价:直连机场，速度还可以，测到后面就没流量了，仅供参考，稳定性一般，从未见过如此便宜的套餐，年付仅3元，每月5G流量，喜欢便宜的可以试试。
 
